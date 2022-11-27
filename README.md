@@ -32,7 +32,7 @@
   * предварительный анализ структуры данных,
   * анализ вакансий,
   * анализ работадателей,
-  * предметнный анализ,
+  * предметный анализ,
   
   <b>используя только:</b>
 
@@ -53,25 +53,25 @@
 
 <img src = https://github.com/AndrewVolkova/Project-2/blob/60cd17a5464dff159bea4be27dd3d0b61b072da2/db_structure/db_scheme.png alt="структура БД" style="width:748px;">
 
-##### Таблица Vacancies
+#### Таблица Vacancies
 
 <img src = https://github.com/AndrewVolkova/Project-2/blob/60cd17a5464dff159bea4be27dd3d0b61b072da2/db_structure/table_vacancies.png alt="таблица Вакансий" style="width:1165px;">
 
 
-##### Таблица Areas
+#### Таблица Areas
 
 <img src = https://github.com/AndrewVolkova/Project-2/blob/60cd17a5464dff159bea4be27dd3d0b61b072da2/db_structure/table_areas.png alt="таблица Регионов" style="width:1166px;">
 
-##### Таблица Employers
+#### Таблица Employers
 
 <img src = https://github.com/AndrewVolkova/Project-2/blob/60cd17a5464dff159bea4be27dd3d0b61b072da2/db_structure/table_employers.png alt="таблица Работодателей" style="width:1165px;">
 
 
-##### Таблица Industries
+#### Таблица Industries
 
 <img src = https://github.com/AndrewVolkova/Project-2/blob/60cd17a5464dff159bea4be27dd3d0b61b072da2/db_structure/table_industries.png alt="таблица Индустрий" style="width:1166px;">
 
-##### Таблица Employers_Industries
+#### Таблица Employers_Industries
 
 <img src = https://github.com/AndrewVolkova/Project-2/blob/60cd17a5464dff159bea4be27dd3d0b61b072da2/db_structure/table_employers_industries.png alt="таблица Работадатель <> Индустрия" style="width:1167px;">
 
